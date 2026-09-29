@@ -26,16 +26,18 @@ You don’t need any extra packages to get started. Just make sure Python 3.9 or
 From the project folder, start the app with:
 
 ```sh
-python3 main.py```
+python3 main.py
+```
 
-Your workouts are stored in `GymTracker/workouts.json`. When you’re done, choose **6. Quit** and your data will still be there next time you launch the app.
+Your workouts are stored in `workouts.json`. When you're done, choose **6. Quit** and your data will still be there the next time you launch the app.
 
 ## Testing
 
 To run the tests:
 
 ```sh
-python3 -m unittest -v```
+python3 -m unittest -v
+```
 
 These checks cover valid and invalid input, workout types, exercise searching, workout stats, saving and loading, and reopening the app with saved data.
 
