@@ -1,0 +1,56 @@
+[
+    {
+        "workout_type": "Push",
+        "date": "29/09/2026",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "sets": 3,
+                "reps": 12,
+                "weight": 100.0
+            },
+            {
+                "name": "Incline Dumbell Press",
+                "sets": 3,
+                "reps": 12,
+                "weight": 22.5
+            }
+        ]
+    },
+    {
+        "workout_type": "Push",
+        "date": "28/08/2026",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "sets": 3,
+                "reps": 12,
+                "weight": 100.0
+            },
+            {
+                "name": "Incline Dumbell Press",
+                "sets": 3,
+                "reps": 12,
+                "weight": 80.0
+            }
+        ]
+    },
+    {
+        "workout_type": "Push",
+        "date": "29/09/2026",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "sets": 3,
+                "reps": 12,
+                "weight": 100.0
+            },
+            {
+                "name": "Incline Dumbbell Press",
+                "sets": 3,
+                "reps": 12,
+                "weight": 22.5
+            }
+        ]
+    }
+]
